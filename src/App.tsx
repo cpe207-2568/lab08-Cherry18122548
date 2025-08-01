@@ -1,7 +1,7 @@
 import { Header } from "./components/Header";
 import { Footer } from "./components/Footer";
 import {Sidebar} from "./components/Sidebar"
-import { TaskInput } from "./components/Taskinput";
+import { TaskInput } from "./components/TaskInput";
 import {Task} from "./components/Task"
 import { type TaskCardProps} from "./libs/types";
 
